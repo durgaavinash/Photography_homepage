@@ -21,7 +21,6 @@ $(document).ready(function () {
         $('.testimonial-slide-number').text(index + 1);
     });
 
-
     // Initialize Owl Carousel
     var owl = $(".owl-carousel").owlCarousel({
         loop: true,
